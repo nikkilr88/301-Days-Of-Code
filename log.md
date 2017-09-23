@@ -3,7 +3,7 @@
 
 ### Day 108 (September 23, 2017):
 
-**Today's Progress**: Got back to the bootcamp! Added edit and update routes for YelpCamp comments.
+**Today's Progress**: Got back to the bootcamp! Added edit and update routes for YelpCamp comments. Did some work on the weather app as well.
 
 **Thoughts:**: I have been struggling a lot recently, but I have to keep pushing through. I know I would regret it if I quit coding, so *Just Keep Swimming*.
 
