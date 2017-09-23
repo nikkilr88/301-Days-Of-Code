@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 108 (September 23, 2017):
+
+**Today's Progress**: Got back to the bootcamp! Added edit and update routes for YelpCamp comments.
+
+**Thoughts:**: I have been struggling a lot recently, but I have to keep pushing through. I know I would regret it if I quit coding, so *Just Keep Swimming*.
+
+**Link to work:** [YelpCamp](https://github.com/nikkilr88/wdb-backend/tree/master/YelpCamp)
+
+
 ### Days 105 - 107:
 
 **Today's Progress**: Enki exercises and weather app
