@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 109 - 110:
+
+**Today's Progress**: Worked a little on the weather app and did some pair programming. Worked on FCC Smallest Common Multiple. https://www.freecodecamp.org/challenges/smallest-common-multiple
+
+**Thoughts:**: The math for this algo kind of throws me off, but I think I am slowly understanding. Just learned about the Euclidean algorithm which has been very helpful.
+
+Now, to make it work with a range of numbers...
+
+**Link to work:** [FCC Smallest Common Multiple](https://repl.it/LeuC/1)
+
+
 ### Day 108 (September 23, 2017):
 
 **Today's Progress**: Got back to the bootcamp! Added edit and update routes for YelpCamp comments. Did some work on the weather app as well.
