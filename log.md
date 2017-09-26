@@ -1,11 +1,14 @@
 # 301 Days Of Code - Log Round 1
 
 
-### Day 109 - 110:
+### Days 109 - 110:
 
 **Today's Progress**: Worked a little on the weather app and did some pair programming. Worked on FCC Smallest Common Multiple. https://www.freecodecamp.org/challenges/smallest-common-multiple
 
 **Thoughts:**: The math for this algo kind of throws me off, but I think I am slowly understanding. Just learned about the Euclidean algorithm which has been very helpful.
+
+![formula](https://github.com/nikkilr88/301-Days-Of-Code/images/formula.png)
+
 
 Now, to make it work with a range of numbers...
 
