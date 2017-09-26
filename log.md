@@ -7,7 +7,7 @@
 
 **Thoughts:**: The math for this algo kind of throws me off, but I think I am slowly understanding. Just learned about the Euclidean algorithm which has been very helpful.
 
-![formula](https://github.com/nikkilr88/301-Days-Of-Code/images/formula.png)
+![formula](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/formula.png)
 
 
 Now, to make it work with a range of numbers...
