@@ -1,6 +1,20 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 114 (September 29, 2017):
+
+**Today's Progress**: Made my calculator app work offline and worked on algos.
+
+**Thoughts:**: Making it work offline was easier than what I thought it would be. :)
+
+
+### Days 111 - 113:
+
+**Today's Progress**: Algos, algos and more algos.
+
+**Thoughts:**: We finished up a couple of them, so that's a good feeling. I am going to have to get back to my bootcamp soon, though. I still have 40ish lessons to go. Slowly but surely...
+
+
 ### Days 109 - 110:
 
 **Today's Progress**: Worked a little on the weather app and did some pair programming. Worked on FCC Smallest Common Multiple. https://www.freecodecamp.org/challenges/smallest-common-multiple
