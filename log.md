@@ -1,6 +1,20 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 116 (October 3, 2017):
+
+**Today's Progress**: Pair programming... Finished up "Pairwise".
+
+**Thoughts:**: Happy to put that algo behind me... At least for the moment. I will probably refactor it as I learn more.
+
+
+### Day 115 (September 30, 2017):
+
+**Today's Progress**: Did a little algo work.
+
+**Thoughts:**: Only got in about 10 minutes, and I know I only need to code 3 min 1 second per day, but I don't feel like I did anything.
+
+
 ### Day 114 (September 29, 2017):
 
 **Today's Progress**: Made my calculator app work offline and worked on algos.
