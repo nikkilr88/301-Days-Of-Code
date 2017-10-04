@@ -3,7 +3,7 @@
 
 ### Day 116 (October 3, 2017):
 
-**Today's Progress**: Pair programming... Finished up "Pairwise".
+**Today's Progress**: Pair programming... Finished up "Pairwise". Also dabbled around with Express and Exceljs.
 
 **Thoughts:**: Happy to put that algo behind me... At least for the moment. I will probably refactor it as I learn more.
 
