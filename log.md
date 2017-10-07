@@ -1,6 +1,19 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 117-119:
+
+**Today's Progress**: Enki, Bootstrap review and Git practice.
+
+**Thoughts:**: Really struggling... Also having more computer problems, so that just adds to the stress.
+
+
+### Day 116 (October 3, 2017):
+
+**Today's Progress**: Pair programming... Finished up "Pairwise". Also dabbled around with Express and Exceljs.
+
+**Thoughts:**: Happy to put that algo behind me... At least for the moment. I will probably refactor it as I learn more.
+
 ### Day 116 (October 3, 2017):
 
 **Today's Progress**: Pair programming... Finished up "Pairwise". Also dabbled around with Express and Exceljs.
