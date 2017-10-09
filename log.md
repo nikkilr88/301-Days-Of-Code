@@ -3,7 +3,7 @@
 
 ### Days 120 & 121:
 
-**Today's Progress**: Lots of Express.
+**Today's Progress**: Lots of Express and some vanilla Node.
 
 **Thoughts:**: Went back to FCC and worked on "learnyounode". Started and turned in "Request Header Parser Microservice".
 
