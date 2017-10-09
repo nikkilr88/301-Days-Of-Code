@@ -1,7 +1,18 @@
 # 301 Days Of Code - Log Round 1
 
 
-### Day 117-119:
+### Days 120 & 121:
+
+**Today's Progress**: Lots of Express.
+
+**Thoughts:**: Went back to FCC and worked on "learnyounode". Started and turned in "Request Header Parser Microservice".
+
+Feeling okay. I really need to get back to my bootcamp soon, though.
+
+**Link to work:** [Request Header Parser Microservice](https://dry-garden-19952.herokuapp.com/)
+
+
+### Days 117-119:
 
 **Today's Progress**: Enki, Bootstrap review and Git practice.
 
