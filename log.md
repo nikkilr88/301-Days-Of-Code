@@ -1,6 +1,14 @@
 # 301 Days Of Code - Log Round 1
 
 
+
+### Days 122 (October 10, 2017):
+
+**Today's Progress**: Completed one "learnyounode" exercise.
+
+**Thoughts:**: I am starting to get bored with these lessons. I think I will enjoy them more when I get to express.
+
+
 ### Days 120 & 121:
 
 **Today's Progress**: Lots of Express and some vanilla Node.
