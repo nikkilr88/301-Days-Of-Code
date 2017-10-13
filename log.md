@@ -1,6 +1,14 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 123 (October 13, 2017):
+
+**Today's Progress**: Got back to working on the bootcamp. Added comment destroy route, authorization and refactored middleware.
+
+**Thoughts:**: Getting back to it... Feels pretty good.
+
+**Link to work:** [YelpCamp](https://github.com/nikkilr88/wdb-backend/tree/master/YelpCamp)
+
 
 ### Days 122 (October 10, 2017):
 
