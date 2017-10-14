@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 124 (October 14, 2017):
+
+**Today's Progress**: Continued with the bootcamp. Added flash messages to YelpCamp.
+
+**Thoughts:**: Everything is going pretty well. Just have to keep it up. 
+
+**Link to work:** [YelpCamp](https://github.com/nikkilr88/wdb-backend/tree/master/YelpCamp)
+
+
 ### Day 123 (October 13, 2017):
 
 **Today's Progress**: Got back to working on the bootcamp. Added comment destroy route, authorization and refactored middleware.
