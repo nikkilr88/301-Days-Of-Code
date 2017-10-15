@@ -3,7 +3,7 @@
 
 ### Day 124 (October 14, 2017):
 
-**Today's Progress**: Continued with the bootcamp. Added flash messages to YelpCamp.
+**Today's Progress**: Continued with the bootcamp. Added flash messages to YelpCamp. Also tarted learning socket.io.
 
 **Thoughts:**: Everything is going pretty well. Just have to keep it up. 
 
