@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 125 & 126:
+
+**Today's Progress**: Continued learning socket.io. Also messed around with Leaflet and the Google Maps API.
+
+**Thoughts:**: So far so good. I found some good tutorials on YouTube, so I think I have the basics down.
+
+
 ### Day 124 (October 14, 2017):
 
 **Today's Progress**: Continued with the bootcamp. Added flash messages to YelpCamp. Also tarted learning socket.io.
