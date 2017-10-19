@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 129 (October 19, 2017):
+
+**Today's Progress**: More Socket.io, Google Maps and Express.
+
+**Thoughts:**: Things went better today. I think I might slowly be figuring this out. We'll see!
+
+
 ### Days 127 & 128:
 
 **Today's Progress**: More work with socket.io and Google Maps API.
