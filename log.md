@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 127 & 128:
+
+**Today's Progress**: More work with socket.io and Google Maps API.
+
+**Thoughts:**: Starting to get stressed out. Yes, I learn when I get stuck, but sometimes it doesn't feel like it's worth the trouble. :/  **Just Keep Swimming*\*
+
+
 ### Days 125 & 126:
 
 **Today's Progress**: Continued learning socket.io. Also messed around with Leaflet and the Google Maps API.
