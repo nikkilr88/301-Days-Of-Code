@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 130 & 131:
+
+**Today's Progress**: Socket.io, Google Maps API, built a basic Twitter bot.
+
+**Thoughts:**: Kind of frustrated with the Google Maps API. Building the bot was pretty fun, though. I will have to add more to it one of these days.
+
+**Link to work:** [Twitter Bot](https://twitter.com/GitLit000)
+
+
 ### Day 129 (October 19, 2017):
 
 **Today's Progress**: More Socket.io, Google Maps and Express.
