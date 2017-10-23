@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 132 (October 23, 2017):
+
+**Today's Progress**: Did a little more work on the Twitter bot.
+
+**Thoughts:**: I set it up to follow certain Youtubers who post their video tutorials. I tested it with my account and all went well. We'll see...
+
+Yesterday I got in my 3+ minutes doing SoloLearn, but I still don't feel right counting it.
+
+
 ### Days 130 & 131:
 
 **Today's Progress**: Socket.io, Google Maps API, built a basic Twitter bot.
