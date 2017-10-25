@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 133 (October 24, 2017):
+
+**Today's Progress**: Twitter bot
+
+**Thoughts:**: I think I am done for now. I want to move onto something else... Maybe get back to my bootcamp. I hope no more bugs pop up!
+
+
 ### Day 132 (October 23, 2017):
 
 **Today's Progress**: Did a little more work on the Twitter bot.
