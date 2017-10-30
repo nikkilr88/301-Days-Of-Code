@@ -1,6 +1,20 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 137 (October 30, 2017):
+
+**Today's Progress**: Got back to The Web Developer Bootcamp. Styled the landing page and added dynamic price values.
+
+**Thoughts:**: It's nice to get back to the bootcamp. I am almost done, so I just want to finish up. I tend to drift away from courses once I get near the end.
+
+
+### Das 134 - 136:
+
+**Today's Progress**: Twitter bot tweaks and a little FCC beta.
+
+**Thoughts:**: I think I'm done with the bot for now. I do want to refactor it in the near future, though.
+
+
 ### Day 133 (October 24, 2017):
 
 **Today's Progress**: Twitter bot
