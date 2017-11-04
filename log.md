@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 138 - 140:
+
+**Today's Progress**: Refactored Twitter bot and started the last section of The Web Developer Bootcamp.
+
+**Thoughts:**: I'm almost there! I really want to start Colt's advanced course once I complete this one. I also have to finish up Practical JS as well.
+
+
 ### Day 137 (October 30, 2017):
 
 **Today's Progress**: Got back to The Web Developer Bootcamp. Styled the landing page and added dynamic price values.
