@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 141 & 142:
+
+**Today's Progress**: Completed the bootcamp and started to refactor my FCC Simon game.
+
+**Thoughts:**: Looking back, the Simon game doesn't seem that complicated. I remember when I was about to start coding it, I was so lost that I didn't even know where to start. This might be somewhat fun.
+
+I'm also stoked about finally getting my cert! Now I'll have to check out Colt's advanced course!
+
+**Link to work:** [FCC Simon](https://github.com/nikkilr88/fcc-simon/tree/develop) | [Closures Exercise](https://repl.it/NptG/1) | [OOP Exercise](https://repl.it/Npnz/2)
+
+
 ### Day 138 - 140:
 
 **Today's Progress**: Refactored Twitter bot and started the last section of The Web Developer Bootcamp.
