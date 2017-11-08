@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 143 (November 7, 2017):
+
+**Today's Progress**: Started The Advanced Web Developer Bootcamp and started switching YelpCamp from Bootstrap 3 to 4.
+
+**Thoughts:**: I'm liking the course so far. I'm exciting to start making fullstack one page apps.
+
+
 ### Day 141 & 142:
 
 **Today's Progress**: Completed the bootcamp and started to refactor my FCC Simon game.
