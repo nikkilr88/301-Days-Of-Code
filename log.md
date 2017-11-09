@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 144 (November 8, 2017):
+
+**Today's Progress**: Started the next section of the bootcamp, cleaned up my calculator code and did some refactoring.
+
+**Thoughts:**: Had a decent day.
+
+**Link to work:**: [Animations Section](https://github.com/nikkilr88/advanced-wdb)
+
+
 ### Day 143 (November 7, 2017):
 
 **Today's Progress**: Started The Advanced Web Developer Bootcamp and started switching YelpCamp from Bootstrap 3 to 4.
