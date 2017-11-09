@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 145 (November 9, 2017):
+
+**Today's Progress**: Finished Practical JS, chapter two of [*Eloquent Javascript*](https://eloquentjavascript.net/) and completed the exercises.
+
+**Thoughts:**: There were three exercises at the end of the chapter. I completed them all without too much trouble, but I'm really not great at pattern printing. For the third exercise, we had to print a chess board. I got it working, but I put way too many if/else statements. I had a look at the source code and then refactored mine as needed.
+
+Hopefully I'll get better at this with time. I'm really liking the book, though!
+
+**Link to work:**: [Looping A Triangle](https://repl.it/OCJp/3) | [FizzBuzz](https://repl.it/OCLF/1) | [Chess Board](https://repl.it/OCd1/2)
+
+
 ### Day 144 (November 8, 2017):
 
 **Today's Progress**: Started the next section of the bootcamp, cleaned up my calculator code and did some refactoring.
