@@ -1,6 +1,16 @@
 # 301 Days Of Code - Log Round 1
 
 
+
+### Day 146 - 148:
+
+**Today's Progress**: Did a little reading and worked on bootcamp.
+
+**Thoughts:**: Not really feeling motivated, but I'm pushing through. 
+
+**Link to work:**: [Advanced WDB](https://github.com/nikkilr88/advanced-wdb)
+
+
 ### Day 145 (November 9, 2017):
 
 **Today's Progress**: Finished Practical JS, chapter two of [*Eloquent Javascript*](https://eloquentjavascript.net/) and completed the exercises.
