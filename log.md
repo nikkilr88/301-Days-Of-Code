@@ -1,6 +1,14 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 149 (November 15, 2017):
+
+**Today's Progress**: Continued with the bootcamp. Currently working on the Flexbox section.
+
+**Thoughts:**: Still not motivated #JustKeepSwimming. 
+
+**Link to work:**: [Flexbox Navbar](https://github.com/nikkilr88/advanced-wdb/tree/master/flexbox/navbar)
+
 
 ### Day 146 - 148:
 
