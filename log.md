@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 151 (November 17, 2017):
+
+**Today's Progress**: Worked on the startup project section of the bootcamp and also dabbled with YelpCamp.
+
+**Thoughts:**: This section moves quite fast, but it's a nice challenge.
+
+**Link to work:**: [Startup Landing Page](https://github.com/nikkilr88/advanced-wdb/tree/master/startup-project)
+
+
 ### Day 150 (November 16, 2017):
 
 **Today's Progress**: Completed the Flexbox section of the course and also dabbled around with some old projects.
