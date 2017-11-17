@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 150 (November 16, 2017):
+
+**Today's Progress**: Completed the Flexbox section of the course and also dabbled around with some old projects.
+
+**Thoughts:**: Slowly getting my motivation back. I am excited about the next section of the course.
+
+**Link to work:**: [Flexbox Section](https://github.com/nikkilr88/advanced-wdb/tree/master/flexbox)
+
+
 ### Day 149 (November 15, 2017):
 
 **Today's Progress**: Continued with the bootcamp. Currently working on the Flexbox section.
