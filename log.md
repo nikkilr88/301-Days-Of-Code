@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 152 (November 20, 2017):
+
+**Today's Progress**: Started the bootcamp JS section. 
+
+**Thoughts:**: Got food poisoning, so I had to take a couple of days off. At least I did not lose my motivation this time!
+
+**Link to work:**: [Async Foundations](https://github.com/nikkilr88/advanced-wdb/tree/master/async-foundations)
+
+
 ### Day 151 (November 17, 2017):
 
 **Today's Progress**: Worked on the startup project section of the bootcamp and also dabbled with YelpCamp.
