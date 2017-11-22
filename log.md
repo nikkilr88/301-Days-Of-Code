@@ -1,6 +1,16 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 153 (November 21, 2017):
+
+**Today's Progress**: Finished up the JS section and started with Ajax. 
+
+**Thoughts:**: This should be fun... We'll see!
+
+**Link to work:**: [XHR](https://github.com/nikkilr88/advanced-wdb/blob/master/ajax/xhr.js)
+
+
+
 ### Day 152 (November 20, 2017):
 
 **Today's Progress**: Started the bootcamp JS section. 
