@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 154 (November 22, 2017):
+
+**Today's Progress**: Continued with Ajax section of the course. Completed a code-along and a mini project. 
+
+**Thoughts:**: Still enjoying the course. I am looking forward to moving on to more advanced concepts, though.
+
+**Link to work:**: [Bitcoin Mini Project](https://codepen.io/nikkilr88/full/EbLoVQ/s)
+
+
 ### Day 153 (November 21, 2017):
 
 **Today's Progress**: Finished up the JS section and started with Ajax. 
