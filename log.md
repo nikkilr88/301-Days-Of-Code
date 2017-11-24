@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 155 & 156:
+
+**Today's Progress**: Finished up the first Ajax section of the course and moved on to part 2.
+
+**Thoughts:**: I am enoying all of the mini code-alongs and exercises.
+
+**Link to work:**: [Random Cat](https://codepen.io/nikkilr88/full/NwzeXG/)
+
+
 ### Day 154 (November 22, 2017):
 
 **Today's Progress**: Continued with Ajax section of the course. Completed a code-along and a mini project. 
