@@ -1,6 +1,16 @@
 # 301 Days Of Code - Log Round 1
 
 
+
+### Days 157 - 159:
+
+**Today's Progress**: Played around with a trivia API and started working on a website.
+
+**Thoughts:**: It's been a few days since I have worked on the course. I want to get back to it soon. 
+
+**Link to work:**: [Trivia](https://codepen.io/nikkilr88/full/KyBdQL/)
+
+
 ### Days 155 & 156:
 
 **Today's Progress**: Finished up the first Ajax section of the course and moved on to part 2.
