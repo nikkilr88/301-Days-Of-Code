@@ -5,7 +5,7 @@
 
 **Today's Progress**: Finished reading chapter 3 of *Eloquent Javascript* and completed the exercises. Got back to the course and finished up AJAX part 2.
 
-**Thoughts:**: Got a pretty early start and had good day! Testing is comming up next, so we'll see how that goes.
+**Thoughts:**: Got a pretty early start and had good day! Testing is coming up next, so we'll see how that goes.
 
 **Link to work:**: [Ron Swanson](https://codepen.io/nikkilr88/pen/gXQrGJ?editors=0010) | [Minimum](https://repl.it/@nikkilr88/Eloquent-JS-Minimum) | [Recursion](https://repl.it/@nikkilr88/Eloquent-JS-Recursion) | [Bean Counting](https://repl.it/@nikkilr88/Eloquent-JS-Bean-Counting)
 
