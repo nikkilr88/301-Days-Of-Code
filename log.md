@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 161 & 162:
+
+**Today's Progress**: Worked on a website and continued with my course.
+
+**Thoughts:**: I decided to skip over the testing section for now and go straight to JS. I'm loving it!
+
+**Link to work:**: [Advanced Array Methods Exercises](https://github.com/nikkilr88/advanced-wdb/tree/master/advanced-array-methods)
+
+
 ### Day 160 (November 29, 2017):
 
 **Today's Progress**: Finished reading chapter 3 of *Eloquent Javascript* and completed the exercises. Got back to the course and finished up AJAX part 2.
