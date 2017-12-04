@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 165 (December 4, 2017):
+
+**Today's Progress**: Continued with the course. Did some reduce exercises and finished up the 'Advanced Array Methods' section.
+
+**Thoughts:**: I really enjoyed all of the exercises. I noticed that reduce was a little more difficult for me than all of the other array methods. I'll need some extra practice.
+
+**Link to work:**: [Reduce Exercises](https://github.com/nikkilr88/advanced-wdb/blob/master/advanced-array-methods/reduce/reduce-exercises.js)
+
+
 ### Days 163 & 164:
 
 **Today's Progress**: A little more work on the website and got VS Code and Node set up on my local machine. Tested by creating a basic app.
