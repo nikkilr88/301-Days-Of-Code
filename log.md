@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 163 & 164:
+
+**Today's Progress**: A little more work on the website and got VS Code and Node set up on my local machine. Tested by creating a basic app.
+
+**Thoughts:**: I don't like change, but with C9 now changing to AWS C9, I really don't have a choice. I'll get used to it.
+
+
 ### Days 161 & 162:
 
 **Today's Progress**: Worked on a website and continued with my course.
