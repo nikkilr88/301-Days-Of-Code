@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 166 & 167:
+
+**Today's Progress**: Did lots of dabbling setting up everything locally. Got Mongo up and running, did some more coding exercises.
+
+**Thoughts:**: Honestly, it has been kind of stressful moving from C9 to VS Code. I think if I were just working on frontend projects that this would be much easier.
+
+**Link to work:**: [CalL and Closures](https://github.com/nikkilr88/advanced-wdb/tree/master/closures-and-this)
+
+
 ### Day 165 (December 4, 2017):
 
 **Today's Progress**: Continued with the course. Did some reduce exercises and finished up the 'Advanced Array Methods' section.
