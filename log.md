@@ -1,6 +1,14 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 168 (December 7, 2017):
+
+**Today's Progress**: More course work.
+
+**Thoughts:**: I don't remeber learning about any of this doing FCC. I had a few problems, so I think I will be reviewing this section.
+
+**Link to work:**: [Call, Apply and Bind Exercises](https://github.com/nikkilr88/advanced-wdb/blob/master/closures-and-this/call-apply-bind-exercises.js)
+
 ### Days 166 & 167:
 
 **Today's Progress**: Did lots of dabbling setting up everything locally. Got Mongo up and running, did some more coding exercises.
