@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 169 (December 8, 2017):
+
+**Today's Progress**: Continued with the OOP sections of the course.
+
+**Thoughts:**: Didn't have any issues with the exercises today. Most of today was review for me.
+
+**Link to work:**: [Prototypes Exercise](https://github.com/nikkilr88/advanced-wdb/blob/master/oop/prototype-challenge.js) | [Prototypes Challenge](https://github.com/nikkilr88/advanced-wdb/blob/master/oop/prototype-challenge.js)
+
+
 ### Day 168 (December 7, 2017):
 
 **Today's Progress**: More course work.
