@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 170 - 172:
+
+**Today's Progress**: Continued with the course. Build a RESTful API with Node.
+
+**Thoughts:**: I really enjoyed the Node section. Working on my local machine kind of has me anxious, though. I was so comfortable in C9. #JustKeepSwimming
+
+**Link to work:**: [Todo API](https://github.com/nikkilr88/advanced-wdb/tree/master/node-mongo-api/todos-api)
+
+
 ### Day 169 (December 8, 2017):
 
 **Today's Progress**: Continued with the OOP sections of the course.
