@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 173 (December 12, 2017):
+
+**Today's Progress:** More coursework. Finished up the CRUD API and started working on the frontend for the todo list app.
+
+**Thoughts:** Doing well! I am having less anxiety about working in VS Code.
+
+
 ### Days 170 - 172:
 
 **Today's Progress**: Continued with the course. Build a RESTful API with Node.
