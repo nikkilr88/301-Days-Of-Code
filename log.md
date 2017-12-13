@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 174 (December 13, 2017):
+
+**Today's Progress**: Finished up the Node/Mongo section of the course. Started ES6.
+
+**Thoughts**: I am really enjoying all of the JS exercises. I have been looking forward to learning more about ES6, so I think this should be fun.
+
+**Link to work**: [Todo API](https://github.com/nikkilr88/advanced-wdb/tree/master/node-mongo-api/todos-api) | [Arrow Function Exercise](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part1/arrow-functions-exercise.js)
+
+
 ### Day 173 (December 12, 2017):
 
 **Today's Progress**: More coursework. Finished up the CRUD API and started working on the frontend for the todo list app.
