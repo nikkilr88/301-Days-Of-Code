@@ -1,6 +1,13 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 175 (December 14, 2017):
+
+**Today's Progress**: Continued with ES6.
+
+**Thoughts**: Took it easy today and only did a few lessons. I'm also testing out some design software. I need to be able to plan out websites before I jump in and start coding.
+
+
 ### Day 174 (December 13, 2017):
 
 **Today's Progress**: Finished up the Node/Mongo section of the course. Started ES6.
