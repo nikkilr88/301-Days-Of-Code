@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 176 & 177:
+
+**Today's Progress**: Did some dabbling and coded the basics of a weather app I am *trying* to design. Finished up with part one of ES2015.
+
+**Thoughts**: Took a couple of days off, and now I am back to it! Looking forward to continuing the course.
+
+**Link to work**: [Rest & Spread Exercise](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part1/rest-spread-exercise.js) | [Destructuring Exercise](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part1/destructuring-exercise.js)
+
+
 ### Day 175 (December 14, 2017):
 
 **Today's Progress**: Continued with ES6.
