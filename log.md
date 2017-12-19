@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 178 (December 19, 2017):
+
+**Today's Progress**: Finished the 'Guess the Password' refactor section. Started ES2015 part 2.
+
+**Thoughts**: Not much to share here today. All is going well, though. 
+
+**Link to work**: [Guess the Password Refactor](https://github.com/nikkilr88/advanced-wdb/blob/master/guess-password/app.js) | [Classes Exercise](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part2/classes-exercise.js)
+
+
 ### Days 176 & 177:
 
 **Today's Progress**: Did some dabbling and coded the basics of a weather app I am *trying* to design. Finished up with part one of ES2015.
