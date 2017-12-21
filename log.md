@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 179 & 180:
+
+**Today's Progress**: Started Codecademy's new Express course and continued with ES2015.
+
+**Thoughts**: I'm still enjoying all of the JS, but I think I will need to take a break soon to work on a project. 
+
+**Link to work**: [Inheritance & Super](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part2/inheritance-super-exercise.js)
+
+
 ### Day 178 (December 19, 2017):
 
 **Today's Progress**: Finished the 'Guess the Password' refactor section. Started ES2015 part 2.
