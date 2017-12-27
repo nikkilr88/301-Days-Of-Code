@@ -1,6 +1,23 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 182 (December 27, 2017):
+
+**Today's Progress**: The Advanced Web Developer Bootcamp, started the maps & sets exercise.
+
+**Thoughts**: I took a few days off, so everything felt a bit 'off'. I will have to review the past few sections.
+
+**Link to work**: [Maps & Sets](https://repl.it/@nikkilr88/AWDB-Maps-and-Sets-Exercise
+)
+
+
+### Day 181 (December 23, 2017):
+
+**Today's Progress**: FreeCodeCamp Beta - Functional Programming
+
+**Thoughts**: I'm hoping I can learn some tips to clean up my code a bit.
+
+
 ### Days 179 & 180:
 
 **Today's Progress**: Started Codecademy's new Express course and continued with ES2015.
