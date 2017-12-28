@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 183 (December 28, 2017):
+
+**Today's Progress**: Finished the maps/sets and promises exercises.
+
+**Thoughts**: The promises exercise and the last 'set' problem were unusually difficult for me, so I'm not too thrilled about that. I think I'm starting to get the hang of it, though. I think tomorrow will be a good day to review everything
+
+**Link to work**: [Maps & Sets](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part2/maps-sets-exercise.js) | [Promises](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part2/promises-assignment.js)
+
+
 ### Day 182 (December 27, 2017):
 
 **Today's Progress**: The Advanced Web Developer Bootcamp, started the maps & sets exercise.
