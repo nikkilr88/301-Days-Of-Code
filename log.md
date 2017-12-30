@@ -1,6 +1,19 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 184 & 185:
+
+**Today's Progress**: Took a break from the course. Worked with Express and started coding a Slack bot.
+
+**Thoughts**: It took me a little while to get the bot up and running, but everything seems to be running well now. 
+
+I saw Slack has a weather bot and wanted to make my own. It takes a user's zipcode and fetches the current weather.
+
+![bot](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/bot.png)
+
+**Link to work**: [Slack Weather Bot](https://github.com/nikkilr88/slack-bot)
+
+
 ### Day 183 (December 28, 2017):
 
 **Today's Progress**: Finished the maps/sets and promises exercises.
