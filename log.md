@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 186 (January 2, 2018):
+
+**Today's Progress**: Continued learning how to use the Slack API and botkit.
+
+**Thoughts**: Moving slower than I like, but slow progress still is progress.
+
+I would like to get back to *The Advanced Web Developer Bootcamp* and *learnyounode*. It has been a while since I've used vanilla Node, and I need some review.
+
+**Link to work**: [Slack Weather Bot](https://github.com/nikkilr88/slack-bot)
+
+
 ### Days 184 & 185:
 
 **Today's Progress**: Took a break from the course. Worked with Express and started coding a Slack bot.
