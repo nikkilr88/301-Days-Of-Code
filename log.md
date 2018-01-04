@@ -7,7 +7,7 @@
 
 **Thoughts**: I get lost from time to time, but overall everything is going well! 
 
-**Link to work**: [Slack RTM Cliet](https://github.com/nikkilr88/slack-bot)
+**Link to work**: [Slack RTM Cliet](https://github.com/nikkilr88/slack-rtm-client-bot)
 
 
 ### Days 186 (January 2, 2018):
