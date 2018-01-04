@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 187 (January 3, 2018):
+
+**Today's Progress**: Started learning / using the Slack Web and RTM Clients.
+
+**Thoughts**: I get lost from time to time, but overall everything is going well! 
+
+**Link to work**: [Slack RTM Cliet](https://github.com/nikkilr88/slack-bot)
+
+
 ### Days 186 (January 2, 2018):
 
 **Today's Progress**: Continued learning how to use the Slack API and botkit.
