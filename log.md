@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 188-190:
+
+**Today's Progress**: Continued working on Slack bot. Also did some FCC beta.
+
+**Thoughts**: Bots are pretty fun... 
+
+![bot](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/simplegame.png)
+
+**Link to work**: [Slack RTM Client/ Joke Bot](https://github.com/nikkilr88/slack-rtm-client-bot)
+
+
 ### Days 187 (January 3, 2018):
 
 **Today's Progress**: Started learning / using the Slack Web and RTM Clients.
