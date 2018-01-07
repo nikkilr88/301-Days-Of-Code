@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 191 (January 7, 2018):
+
+**Today's Progress**: Started *CSS3 in 30 Days*.
+
+**Thoughts**: I didn't have much time today, but I managed to get part 1 finished.
+
+**Link to work**: [Fancy Buttons](https://github.com/nikkilr88/css30/tree/master/1%20-%20Fancy%20Buttons)
+
+
 ### Days 188-190:
 
 **Today's Progress**: Continued working on Slack bot. Also did some FCC beta.
