@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 192 (January 8, 2018):
+
+**Today's Progress**: Finished ES2015, 16 and 17 sections of *The Advanced Web Developer Bootcamp*.
+
+**Thoughts**: The async functions exercise was pretty fun! Next comes D3... Let's see how this goes.
+
+**Link to work**: [ES2015 Methods](https://github.com/nikkilr88/advanced-wdb/blob/master/es2015-part2/es2015-methods-exercise.js) | [Async Functions](https://github.com/nikkilr88/advanced-wdb/blob/master/es2016-es2017/async-functions-assignment.js)
+
+
 ### Day 191 (January 7, 2018):
 
 **Today's Progress**: Started *CSS3 in 30 Days*.
