@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 193 & 194:
+
+**Today's Progress**: Continued with *CSS3 in 30 Days* and got in some JS practice by making a basic sortable table.
+
+**Thoughts**: I haven't been feeling very motivated the past few days. Coding the table was kind of fun, though. I think I should get some React practice in and knock out the *Build A Camper Leaderboard* project from FCC.
+
+**Link to work**: [Sortable Table](https://codepen.io/nikkilr88/pen/YYavRB?editors=0010)
+
+
 ### Day 192 (January 8, 2018):
 
 **Today's Progress**: Finished ES2015, 16 and 17 sections of *The Advanced Web Developer Bootcamp*.
