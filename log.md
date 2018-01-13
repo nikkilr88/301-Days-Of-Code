@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 195 & 196:
+
+**Today's Progress**: Started a personal project and made a basic pixel art app.
+
+**Thoughts**: I saw this pixel art project pop up all of the time on Twitter. It looks like it is part of a nanodegree program on Udemy. I decided to try recreating it on my own... 
+
+The color picker is messed up in IE, but overall I think it's coming along well. I might just code my own (very basic) color picker.
+
+**Link to work**: [Pixel Art](https://codepen.io/nikkilr88/full/WdyOEx/)
+
+
 ### Days 193 & 194:
 
 **Today's Progress**: Continued with *CSS3 in 30 Days* and got in some JS practice by making a basic sortable table.
