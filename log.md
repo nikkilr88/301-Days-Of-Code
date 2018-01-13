@@ -9,6 +9,9 @@
 
 The color picker is messed up in IE, but overall I think it's coming along well. I might just code my own (very basic) color picker.
 
+![pixels](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/pixels.png)
+
+
 **Link to work**: [Pixel Art](https://codepen.io/nikkilr88/full/WdyOEx/)
 
 
