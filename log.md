@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 197 & 198:
+
+**Today's Progress**: FCC Tic Tac Toe code-along. 
+
+**Thoughts**: I already completed the Tic Tac Toe project on my own a while back (w/o the minimax algo), but I figured that I could learn a from the tutorial.
+
+I finished the first 6 parts, and started watching part 7 that deals with the minimax algorithm. It's a lot to take in, and I feel a bit lost, so I'll be watching that section a few times over.
+
+
 ### Days 195 & 196:
 
 **Today's Progress**: Started a personal project and made a basic pixel art app.
