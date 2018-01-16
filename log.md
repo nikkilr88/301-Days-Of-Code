@@ -9,7 +9,7 @@
 
 Today I thought I would add some more features to the app. I'm really just reverse engineering features that I'm seeing on Twitter. It has been good practice!
 
-![pixels new](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/pixels-redesign.png&s=200)
+![pixels new](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/pixels-redesign.png)
 
 
 ### Days 197 & 198:
