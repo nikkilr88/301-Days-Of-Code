@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 199 (January 16, 2018):
+
+**Today's Progress**: Worked on the pixel art app. 
+
+**Thoughts**: I am horrible at sticking to study plans... Well, at least I am getting stuff done.
+
+Today I thought I would add some more features to the app. I'm really just reverse engineering features that I'm seeing on Twitter. It has been good practice!
+
+![pixels new](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/pixels-redesign.png&s=200)
+
+
 ### Days 197 & 198:
 
 **Today's Progress**: FCC Tic Tac Toe code-along. 
