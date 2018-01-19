@@ -1,6 +1,19 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 201 (January 19, 2018):
+
+**Today's Progress**: Continued with GriddyUp (CSS grid course) and got back to JS30.
+
+**Thoughts**: I remember when I first started JS30 I was pretty lost. I wasn't used to ES6 syntax, and I could follow the tutorials, but not much made sense. I decided to move on and do other courses. 
+
+Today I reviewed the first lesson and completed the second. Everything is completely different. I understand what's going on, and I feel like I am benefiting from the tutorials.
+
+![JS Clock](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/js-clock.png)
+
+**Link to work**: [JS Clock](https://github.com/nikkilr88/javascript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START.html)
+
+
 ### Day 200 (January 18, 2018):
 
 **Today's Progress**: Started Wes Bos' CSS grid course and worked on the pixel art app. 
