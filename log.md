@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 200 (January 18, 2018):
+
+**Today's Progress**: Started Wes Bos' CSS grid course and worked on the pixel art app. 
+
+**Thoughts**: I had to take a break yesterday, but today I got back to it. I really enjoyed the first few lessons of the css grid course.
+
+**Link to work**: [Pixel Art](https://github.com/nikkilr88/pixel-art/tree/develop)
+
+
 ### Day 199 (January 16, 2018):
 
 **Today's Progress**: Worked on the pixel art app. 
