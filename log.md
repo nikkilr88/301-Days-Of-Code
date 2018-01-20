@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 202 (January 20, 2018):
+
+**Today's Progress**: Two JS30 lessons.
+
+**Thoughts**: Today I finished the CSS variables and array cardio lessons. I decided to give the array exercises a go before watching the video. I think I did pretty well. I only got stuck on one where I wasn't sure what I was supposed to do (#6). 
+
+**Link to work**: [Array Cardio](https://github.com/nikkilr88/javascript30/blob/master/04%20-%20Array%20Cardio%20Day%201/index.html) | [CSS Variables](https://github.com/nikkilr88/javascript30/blob/master/03%20-%20CSS%20Variables/index-START.html)
+
+
 ### Day 201 (January 19, 2018):
 
 **Today's Progress**: Continued with GriddyUp (CSS grid course) and got back to JS30.
