@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 203 & 204:
+
+**Today's Progress**: Two JS30 lessons.
+
+**Thoughts**: I missed a few days, but I'm getting back to it.
+
+![city search](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/city-search.png)
+
+**Link to work**: [Flex Gallery](https://github.com/nikkilr88/javascript30/blob/master/05%20-%20Flex%20Panel%20Gallery/index-START.html) | [City Search](https://github.com/nikkilr88/javascript30/blob/master/06%20-%20Type%20Ahead/index-START.html)
+
+
 ### Day 202 (January 20, 2018):
 
 **Today's Progress**: Two JS30 lessons.
