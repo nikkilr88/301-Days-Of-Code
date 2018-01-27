@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 205 (January 27, 2018):
+
+**Today's Progress**: Lots of JS. Played around with the YouTube API.
+
+**Thoughts**: I started a project a while back, and I wanted to get used to the API for this idea that I have. 
+
+![youtube gif](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/youtube-api.gif)
+
+
 ### Day 203 & 204:
 
 **Today's Progress**: Two JS30 lessons.
