@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 206 & 207:
+
+**Today's Progress**: Continued working on the YT API project.
+
+**Thoughts**: I didn't do too much these past couple of days. I did add embedded videos, though.
+
+I think I am going to get back to doing one of my courses the rest of this week. 
+
+![youtube-embed gif](https://github.com/nikkilr88/301-Days-Of-Code/blob/master/images/yt-embed.gif)
+
+
 ### Day 205 (January 27, 2018):
 
 **Today's Progress**: Lots of JS. Played around with the YouTube API.
