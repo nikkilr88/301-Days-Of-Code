@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Day 208 (January 31, 2018):
+
+**Today's Progress**: Two JS30 lessons.
+
+**Thoughts**: Today I finished Array Cardio 2 and the HTML canvas paint project. I had never used canvas before today... it seems like P5 might be a little easier.
+
+**Link to work**: [Array Cardio 2](https://github.com/nikkilr88/javascript30/blob/master/07%20-%20Array%20Cardio%20Day%202/index-START.html) | [Canvas](https://github.com/nikkilr88/javascript30/blob/master/08%20-%20Fun%20with%20HTML5%20Canvas/index-START.html)
+
+
 ### Days 206 & 207:
 
 **Today's Progress**: Continued working on the YT API project.
