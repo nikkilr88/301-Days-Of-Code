@@ -1,6 +1,15 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 209 & 210:
+
+**Today's Progress**: Two JS30 lessons and refactored my Twitch app to use async/await.
+
+**Thoughts**: For the shift click exercise, we were supposed to try to solve it before watching the video. I got it working, but I just feel that my solution is kind of messy.
+
+**Link to work**: [Shift Click Exercise](https://github.com/nikkilr88/javascript30/blob/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-START.html) | [Twitch](https://codepen.io/nikkilr88/pen/MQyYVx?editors=0010)
+
+
 ### Day 208 (January 31, 2018):
 
 **Today's Progress**: Two JS30 lessons.
