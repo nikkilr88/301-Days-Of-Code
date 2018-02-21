@@ -1,6 +1,17 @@
 # 301 Days Of Code - Log Round 1
 
 
+### Days 211 & 212:
+
+**Today's Progress**: Three JS30 lessons
+
+**Thoughts**: These past two weeks have been a complete mess! I coded / studied, but I missed a lot of days. I decided to keep going, but I'm not going to count the days I coded towards the challenge.
+
+I had fun doing the band sort exercise today. My solution is pretty bad compared to the official one, though! :D I will go back in a few days and redo it.
+
+**Link to work**: [Band Sort](https://github.com/nikkilr88/javascript30/blob/master/17%20-%20Sort%20Without%20Articles/index-START.html)
+
+
 ### Days 209 & 210:
 
 **Today's Progress**: Two JS30 lessons and refactored my Twitch app to use async/await.
